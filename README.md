@@ -5,7 +5,7 @@
 + 👋  Hi, I’m Zack!
 + 👨‍💻  Working on disentangling patterns of climate change from climate variability using data-driven methods at [NOAA GFDL](https://www.gfdl.noaa.gov/) and the [Atmospheric and Oceanic Sciences Program at Princeton University](https://aos.princeton.edu/)
 + 💻  Research website at [https://sites.uci.edu/zlabe](https://sites.uci.edu/zlabe)
-+ 👀  Interested in large-scale climate variability, atmospheric teleconnections, stratosphere-troposphere coupling, Arctic sea ice, machine learning, climate model large ensembles, extreme events, data visualization
++ 👀  Interested in: large-scale climate variability • atmospheric teleconnections • stratosphere-troposphere coupling • Arctic sea ice • machine learning • climate model large ensembles • extreme events • data visualization
 
 + ✨  Passionate about telling data-driven stories to improve communication of climate change [[Visit my climate visualizations page!]](https://sites.uci.edu/zlabe/arctic-sea-ice-figures/)
 
