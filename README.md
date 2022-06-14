@@ -12,6 +12,7 @@
   + Stratosphere-troposphere coupling 
   + Arctic sea ice 
   + Extreme events 
+  + Science communication
 + 🔨 Using methods like...
   + Climate model large ensembles 
   + Machine learning 
