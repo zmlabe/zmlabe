@@ -1,4 +1,4 @@
-[![Twitter Badge](https://img.shields.io/twitter/follow/realaaronspring?style=social)](https://twitter.com/zlabe)
+[![Twitter Badge](https://img.shields.io/twitter/follow/ZLabe?style=social)](https://twitter.com/zlabe)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=E6cJPWcAAAAJ&hl=en&oi=sra)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zacharylabe)
 
@@ -10,5 +10,5 @@
 + ✨ passionate about telling data-driven stories to improve communication of climate change [visit my climate visualizations page]https://sites.uci.edu/zlabe/arctic-sea-ice-figures/)
 
 ## Contact
-+ 📫 [email](mailto:zachary.labe@noaa.gov)
++ 📫 [Email](mailto:zachary.labe@noaa.gov)
 + 🕊️ [@ZLabe](https://twitter.com/zlabe/)
