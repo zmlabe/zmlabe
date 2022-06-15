@@ -2,7 +2,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zacharylabe)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=E6cJPWcAAAAJ&hl=en&oi=sra)
 [![SlideShare Badge](https://img.shields.io/badge/My-SlideShare-blue)](https://www.slideshare.net/ZacharyLabe)
-[![GitHub Badge](https://img.shields.io/github/followers/zmlabe?style=social)](https://github.com/zmlabe?tab=followers)
+[![GitHub Badge](https://img.shields.io/github/followers/zmlabe?style=social)](https://github.com/zmlabe)
 
 ## About
 + 👋 Hi, I’m Zack!
