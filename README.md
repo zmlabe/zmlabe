@@ -8,7 +8,8 @@
 + 👨‍💻 Working on disentangling patterns of climate change from climate variability using data-driven methods at [NOAA GFDL](https://www.gfdl.noaa.gov/) and the [Atmospheric and Oceanic Sciences Program at Princeton University](https://aos.princeton.edu/)
 + 👀 Interested in...
   + Large-scale climate variability 
-  + Atmospheric teleconnections 
+  + Atmospheric teleconnections
+  + Decadal climate prediction
   + Stratosphere-troposphere coupling 
   + Arctic sea ice 
   + Extreme events 
