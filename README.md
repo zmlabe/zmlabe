@@ -19,9 +19,9 @@
   + Climate model large ensembles 
   + Machine learning 
   + Data visualization
-+ 💻 Research website at [https://sites.uci.edu/zlabe](https://sites.uci.edu/zlabe)
++ 💻 Research website at [https://zacklabe.com/](https://zacklabe.com/)
 
-+ ✨ Passionate about telling data-driven stories to improve communication of climate change [[Visit my climate visualizations page!]](https://sites.uci.edu/zlabe/arctic-sea-ice-figures/)
++ ✨ Passionate about telling data-driven stories to improve communication of climate change [[Visit my climate visualizations page!]](https://zacklabe.com/arctic-sea-ice-figures/)
 
 ## Contact
 + 📫 [Email](mailto:zachary.labe@noaa.gov)
