@@ -26,4 +26,4 @@
 ## Contact
 + 📫 [Email](mailto:zachary.labe@noaa.gov)
 + 🐦 [@ZLabe](https://twitter.com/zlabe/)
-+ 📘 [CV](https://github.com/zmlabe/ZLabe_CV/blob/master/ZLabe_CV.pdf)/[Resume](https://github.com/zmlabe/ZLabe_Resume/blob/main/ZLabe_Resume.pdf)
++ 📄 [CV](https://github.com/zmlabe/ZLabe_CV/blob/master/ZLabe_CV.pdf)/[Resume](https://github.com/zmlabe/ZLabe_Resume/blob/main/ZLabe_Resume.pdf)
