@@ -1,4 +1,5 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/ZLabe?style=social)](https://twitter.com/zlabe)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109287688894858993?domain=https%3A%2F%2Ffediscience.org&label=%40ZLabe%40fediscience.org&style=social)](https://fediscience.org/@ZLabe)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/zacharylabe)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=E6cJPWcAAAAJ&hl=en&oi=sra)
 [![SlideShare Badge](https://img.shields.io/badge/My-SlideShare-blue)](https://www.slideshare.net/ZacharyLabe)
@@ -26,4 +27,5 @@
 ## Contact
 + 📫 [Email](mailto:zachary.labe@noaa.gov)
 + 🐦 [@ZLabe](https://twitter.com/zlabe/)
++ 🐘 [@ZLabe@fediscience.org](https://fediscience.org/@ZLabe)
 + 📄 [CV](https://github.com/zmlabe/ZLabe_CV/blob/master/ZLabe_CV.pdf)/[Resume](https://github.com/zmlabe/ZLabe_Resume/blob/main/ZLabe_Resume.pdf)
