@@ -25,7 +25,8 @@
 + ✨ Passionate about telling data-driven stories to improve communication of climate change [[Visit my climate visualizations page!]](https://zacklabe.com/arctic-sea-ice-figures/)
 
 ## Contact
++ 📄 [CV](https://github.com/zmlabe/ZLabe_CV/blob/master/ZLabe_CV.pdf)/[Resume](https://github.com/zmlabe/ZLabe_Resume/blob/main/ZLabe_Resume.pdf)
 + 📫 [Email](mailto:zachary.labe@noaa.gov)
++ 🗞️ [Post](https://post.news/f52c0c7c-e8fb-467d-835e-261bd88684f5)
 + 🐦 [@ZLabe](https://twitter.com/zlabe/)
 + 🐘 [@ZLabe@fediscience.org](https://fediscience.org/@ZLabe)
-+ 📄 [CV](https://github.com/zmlabe/ZLabe_CV/blob/master/ZLabe_CV.pdf)/[Resume](https://github.com/zmlabe/ZLabe_Resume/blob/main/ZLabe_Resume.pdf)
