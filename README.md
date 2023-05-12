@@ -21,7 +21,7 @@
   + Machine learning 
   + Data visualization
 + 💻 Research website at [https://zacklabe.com/](https://zacklabe.com/)
-+ 💻 Institutional website at [https://www.gfdl.noaa.gov/zachary-labe/](https://www.gfdl.noaa.gov/zachary-labe/)
+  + Institutional website at [https://www.gfdl.noaa.gov/zachary-labe/](https://www.gfdl.noaa.gov/zachary-labe/)
 
 + ✨ Passionate about telling data-driven stories to improve communication of climate change [[Visit my climate visualizations page!]](https://zacklabe.com/arctic-sea-ice-figures/)
 
