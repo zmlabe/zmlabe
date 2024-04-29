@@ -18,7 +18,8 @@
   + Science communication
 + 🔨 Using methods like...
   + Climate model large ensembles 
-  + Machine learning 
+  + Machine learning
+  + Explainable AI
   + Data visualization
 + 💻 Research website at [https://zacklabe.com/](https://zacklabe.com/)
   + Institutional website at [https://www.gfdl.noaa.gov/zachary-labe/](https://www.gfdl.noaa.gov/zachary-labe/)
@@ -28,6 +29,6 @@
 ## Contact
 + 📄 [CV](https://github.com/zmlabe/ZLabe_CV/blob/master/ZLabe_CV.pdf)/[Resume](https://github.com/zmlabe/ZLabe_Resume/blob/main/ZLabe_Resume.pdf)
 + 📫 [Email](mailto:zachary.labe@noaa.gov)
-+ 🗞️ [Post](https://post.news/@/zlabe_)
 + 🐦 [@ZLabe](https://twitter.com/zlabe/)
 + 🐘 [@ZLabe@fediscience.org](https://fediscience.org/@ZLabe)
++ 🌤️ [@zlabe.bsky.social](https://bsky.app/profile/zlabe.bsky.social)
