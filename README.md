@@ -7,7 +7,7 @@
 
 ## About
 + 👋 Hi, I’m Zack!
-+ 👨‍💻 Working on disentangling patterns of climate change from climate variability using data-driven methods at [NOAA GFDL](https://www.gfdl.noaa.gov/) and the [Atmospheric and Oceanic Sciences Program at Princeton University](https://aos.princeton.edu/)
++ 👨‍💻 Working on climate prediction and projection, especially for disentangling patterns of climate change from climate variability using data-driven methods at [NOAA GFDL](https://www.gfdl.noaa.gov/)
 + 👀 Interested in...
   + Large-scale climate variability 
   + Atmospheric teleconnections
