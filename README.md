@@ -31,4 +31,4 @@
 + 📫 [Email](mailto:zachary.labe@noaa.gov)
 + 🐦 [@ZLabe](https://twitter.com/zlabe/)
 + 🐘 [@ZLabe@fediscience.org](https://fediscience.org/@ZLabe)
-+ 🌤️ [@zlabe.bsky.social](https://bsky.app/profile/zlabe.bsky.social)
++ 🌤️ [@zacklabe.com](https://bsky.app/profile/zacklabe.com)
