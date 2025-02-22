@@ -12,6 +12,7 @@
   + Large-scale climate variability 
   + Atmospheric teleconnections
   + Decadal climate prediction
+  + Climate impacts and risk assessment
   + Stratosphere-troposphere coupling 
   + Arctic sea ice 
   + Extreme events 
