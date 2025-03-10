@@ -7,14 +7,13 @@
 
 ## About
 + 👋 Hi, I’m Zack!
-+ 👨‍💻 Working on climate prediction and projection, especially for disentangling patterns of climate change from climate variability using data-driven methods at [NOAA GFDL](https://www.gfdl.noaa.gov/)
++ 👨‍💻 Working on climate prediction and projection, especially for disentangling patterns of climate change from natural variability using data-driven methods
 + 👀 Interested in...
   + Large-scale climate variability 
   + Atmospheric teleconnections
   + Decadal climate prediction
   + Climate impacts and risk assessment
-  + Stratosphere-troposphere coupling 
-  + Arctic sea ice 
+  + Climate policy
   + Extreme events 
   + Science communication
 + 🔨 Using methods like...
@@ -29,7 +28,7 @@
 
 ## Contact
 + 📄 [CV](https://github.com/zmlabe/ZLabe_CV/blob/master/ZLabe_CV.pdf)/[Resume](https://github.com/zmlabe/ZLabe_Resume/blob/main/ZLabe_Resume.pdf)
-+ 📫 [Email](mailto:zachary.labe@noaa.gov)
-+ 🐦 [@ZLabe](https://twitter.com/zlabe/)
++ 📫 [Email](mailto:zacklabe.climate@gmail.com)
++ 🐦 [@ZLabe](https://x.com/ZLabe)
 + 🐘 [@ZLabe@fediscience.org](https://fediscience.org/@ZLabe)
-+ 🌤️ [@zacklabe.com](https://bsky.app/profile/zacklabe.com)
++ 🦋 [@zacklabe.com](https://bsky.app/profile/zacklabe.com)
